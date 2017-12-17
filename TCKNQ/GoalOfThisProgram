@@ -1,0 +1,5 @@
+program that reads a Turkish Citizen Number (TCKN) and validates it according to the following rules:
+A TCKN must have 11 digits.
+It cannot start with 0.
+If you sum the 1st, 3rd, 5th, 7th, and 9th digits from its left, and multiply it with 7, and subtract the sum of the 2nd, 4th, 6th, and 8th digits from the multiplication result, and apply modulus-10 to the final result, you must get the 10th digit.
+ If you sum the first 10 digits from its left and get modulus-10 of the summation, you must get the 11th digit.
