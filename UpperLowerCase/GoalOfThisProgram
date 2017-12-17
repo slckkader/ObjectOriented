@@ -1,1 +1,6 @@
- that reads a string and a character from the user. Add a method that receives the string and the character. If the character is a lowercase letter, the method converts all the lowercase instances of the character in the string into uppercase and returns the new string.  If the character is an uppercase letter, the method converts all the uppercase instances of it into lowercase and returns the new string.
+ that reads a string and a character from the user.
+ Add a method that receives the string and the character.
+ If the character is a lowercase letter, the method converts all the 
+ lowercase instances of the character in the string into uppercase and returns the new string. 
+ If the character is an uppercase letter, the method converts all the uppercase instances of
+ it into lowercase and returns the new string.
