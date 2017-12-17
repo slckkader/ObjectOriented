@@ -1,1 +1,4 @@
-That reads the number of rows and columns of a 2-dimensional square integer matrix (10x10 maximum), and the numbers. The program tests if the sum of numbers in the ith row is equal to the sum of numbers in the ith column for all rows and columns.
+That reads the number of rows and columns of a 2-dimensional 
+square integer matrix (10x10 maximum), and the numbers.
+The program tests if the sum of numbers in the ith row is
+equal to the sum of numbers in the ith column for all rows and columns.
